@@ -20,7 +20,7 @@ body{
 }
 .text-charcoal-60 {
     --tw-text-opacity: 1;
-    color: rgb(102 102 102/var(--tw-text-opacity));
+    color: rgb(102 102 102);
 }
 .text-charcoal-20 {
     --tw-text-opacity: 1;
@@ -28,9 +28,9 @@ body{
 }
 .text-charcoal-10 {
     --tw-text-opacity: 1;
-    color: rgb(230 230 230/var(--tw-text-opacity));
+    color: rgb(230 230 230);
 }
 .border-b-charcoal-70 {
     --tw-border-opacity: 1;
-    border-bottom-color: rgb(77 77 77/var(--tw-border-opacity));
+    border-bottom-color: rgb(77 77 77);
 }
